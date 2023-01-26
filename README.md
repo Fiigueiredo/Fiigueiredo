@@ -45,7 +45,7 @@ AZUL
 
 <!-- <Caixa de Status> -->
 <div align="center">
-  <img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api?username=fiigueiredo&show_icons=true&count_private=true&hide_border=false&title_color=8afff7&icon_color=0c547e&text_color=08d8ff&bg_color=131f22" alt="My github stats"/>
+  <img width="46%" height="195px" src="https://github-readme-stats.vercel.app/api?username=fiigueiredo&show_icons=true&count_private=true&hide_border=false&title_color=8afff7&icon_color=0c547e&text_color=08d8ff&bg_color=131f22" alt="My github stats"/>
 
 <!-- <Caixa de Linguagens mais usadas> -->
 <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RAYSAFIGUEIREDO&layout=compact&hide_border=false&title_color=8afff7&text_color=08d8ff&bg_color=131f22" />
