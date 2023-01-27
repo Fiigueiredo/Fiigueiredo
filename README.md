@@ -1,5 +1,5 @@
 <!-- IMAGE HEADER -->
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=a99afb&height=120&section=header" />
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1F222E&height=120&section=header" />
 
 <br />
 <br />
@@ -8,8 +8,8 @@
 <br />
 
 <!-- ## MY PRESENTATION -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&size=35&pause=1000&color=FFE1F4&background=00000000&center=true&vCenter=true&width=1000&lines=HELLO%2C+my+name+is+Levi+Figueiredo;I'm+%2B30+years+old;FULLSTACK+DEVELOPMENT+STUDENT;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
-  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&size=35&pause=1000&color=F85D7F&background=00000000&center=true&vCenter=true&width=1000&lines=HELLO%2C+my+name+is+Levi+Figueiredo;I'm+%2B30+years+old;FULLSTACK+DEVELOPMENT+STUDENT;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
+
 <br />
 <br />
 <br />
@@ -23,7 +23,7 @@
 <br />
 
 <!-- GitHub ACTIVITY - https://github.com/ashutosh00710/github-readme-activity-graph -->
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img title="My contribution activities graph" alt="Fiigueiredo's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=fiigueiredo&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img title="My contribution activities graph" alt="Fiigueiredo's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=fiigueiredo&bg_color=1F222E&title_color=F85D7F&color=F8D866&line=F85D7F&point=F85D7F&hide_border=true" /></a>
 
 <br />
 
@@ -87,7 +87,7 @@
 - [[Coming Soon] Criando interface do banco ByteBank]()<br/>
 
 <!-- IMAGE FOOTER -->
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=a99afb&height=120&section=footer" />
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1F222E&height=120&section=footer" />
 
 
 
@@ -110,5 +110,3 @@
 
 - I’m currently working on:
 -->
-  
- 
