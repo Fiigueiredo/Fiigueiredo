@@ -6,7 +6,7 @@
 <br />
 
 <!-- ## MY PRESENTATION -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&size=35&pause=1000&color=F85D7F&background=00000000&center=true&vCenter=true&width=1000&lines=HELLO%2C+my+name+is+Levi+Figueiredo;I'm+%2B30+years+old;FULLSTACK+DEVELOPMENT+STUDENT;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&size=35&pause=1000&color=F85D7F&background=00000000&center=true&vCenter=true&width=1000&lines=HELLO%2C+my+name+is+Levi+Figueiredo;I'm+%2B30+years+old;FULLSTACK+DEVELOPMENT+STUDENT;Welcome+to+my+ROOM!)](https://git.io/typing-svg)
 
 <br />
 <br />
@@ -82,7 +82,15 @@
 - [[Participating] Processo seletivo Faculdade XP Educação](https://forms.xpeducacao.com.br/graduacao-segundo-semestre-2023/)<br/>
 - [[Studying] Java OO: entendendo a Orientação a Objetos (Alura)](https://cursos.alura.com.br/course/java-introducao-orientacao-objetos)<br/>
 - [[Coming Soon] Criando interfade do cartão RocketPay (Explorer Lab - Rocketseat)](https://lp.rocketseat.com.br/inscricao/explorer-lab?&)<br/>
-- [[Coming Soon] Criando interface do banco ByteBank]()<br/>
+- [[Coming Soon] Criando interface do banco ByteBank]()
+ 
+<br />
+<br />
+<br />
+
+<div align="center">
+  <img height="16px" title="Visitors to my room" alt = "Visitor counter"  src="https://profile-counter.glitch.me/{fiigueiredo}/count.svg" />
+</div>
 
 <!-- IMAGE FOOTER -->
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ed76b4&height=120&section=footer" />
