@@ -20,7 +20,7 @@
 <br />
 
 <!-- GitHub ACTIVITY - https://github.com/ashutosh00710/github-readme-activity-graph -->
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Fiigueiredo's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=fiigueiredo&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img title="My contribution activities graph" alt="Fiigueiredo's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=fiigueiredo&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
 <br />
 
