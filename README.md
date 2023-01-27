@@ -3,6 +3,9 @@
 
 <br />
 <br />
+<br />
+<br />
+<br />
 
 <!-- ## MY PRESENTATION -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&size=35&pause=1000&color=FFE1F4&background=00000000&center=true&vCenter=true&width=1000&lines=HELLO%2C+my+name+is+Levi+Figueiredo;I'm+%2B30+years+old;FULLSTACK+DEVELOPMENT+STUDENT;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
