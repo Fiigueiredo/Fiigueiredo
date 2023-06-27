@@ -20,8 +20,10 @@
 
 <br />
 
-<!-- GitHub ACTIVITY - https://github.com/ashutosh00710/github-readme-activity-graph -->
+<!-- GitHub ACTIVITY - https://github.com/ashutosh00710/github-readme-activity-graph
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img title = "Contribution activities graph" alt = "Contribution activities graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=fiigueiredo&bg_color=1F222E&title_color=F85D7F&color=F8D866&line=F85D7F&point=F85D7F&hide_border=true" /></a>
+-->
+
 
 <br />
 
