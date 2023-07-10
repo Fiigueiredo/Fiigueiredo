@@ -1,31 +1,22 @@
 <!-- IMAGE HEADER -->
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ed76b4&height=120&section=header" />
 
-<br />
-<br />
-<br />
+<br>
+<br>
 
 <!-- ## MY PRESENTATION -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&size=35&pause=1000&color=F85D7F&background=00000000&center=true&vCenter=true&width=1000&lines=HELLO%2C+my+name+is+Levi+Figueiredo;I+live+in+Brazil;Believe+me%2C+I'm+over+%2B30+years+old;FULLSTACK+DEVELOPMENT+STUDENT;Welcome+to+my+ROOM!)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=35&pause=1000&color=F85D7F&center=true&vCenter=true&width=1024&lines=HELLO%2C+my+name+is+Levi+Figueiredo;Believe+me%2C+i'm+over+%2B30+years+old;I+live+in+Brazil;FULLSTACK+DEVELOPMENT+STUDENT;Software+Analysis+and+Development;Welcome+to+my+'ROOM'" alt="Typing SVG" /></a>
 
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
+<br>
+<br>
 
 ## My humble stats
 
-<br />
+<br>
+<br>
 
 <!-- GitHub ACTIVITY - https://github.com/ashutosh00710/github-readme-activity-graph
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img title = "Contribution activities graph" alt = "Contribution activities graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=fiigueiredo&bg_color=1F222E&title_color=F85D7F&color=F8D866&line=F85D7F&point=F85D7F&hide_border=true" /></a>
--->
-
-
-<br />
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img title = "Contribution activities graph" alt = "Contribution activities graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=fiigueiredo&bg_color=1F222E&title_color=F85D7F&color=F8D866&line=F85D7F&point=F85D7F&hide_border=true" /></a>-->
 
 <div align="center">
 <!-- GitHub PROFILE STATS - https://github.com/anuraghazra/github-readme-stats -->
@@ -38,13 +29,8 @@
     <img title = "Streak stats" alt = "Streak stats" src="https://streak-stats.demolab.com/?user=fiigueiredo&theme=monokai-metallian&hide_border=true"/></a>
 </div>
  
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />  
+<br>
+<br>
 
 ## Summary
 <p>
@@ -53,7 +39,7 @@
 </p>
 
 💼 Want to hire me or see my resume? Send me an email, or
-<br />💬 Ask me about anything, I'll be <a href="https://github.com/Fiigueiredo/Fiigueiredo/issues" target="_blank">happy to help</a>.
+<br>💬 Ask me about anything, I'll be <a href="https://github.com/Fiigueiredo/Fiigueiredo/issues" target="_blank">happy to help</a>.
 
 <!--## MY SOCIAL NETWORKS -->
 <div align="center">
@@ -80,33 +66,25 @@
   
 </div>
 
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
+<br>
+<br>
 
 ## Last Actions
 <!-- - [[Participating] Processo seletivo Faculdade XP Educação](https://forms.xpeducacao.com.br/graduacao-segundo-semestre-2023/)<br/> -->
+- [[undergraduate] EAD UNIASSELVI: Análise e Desenvolvimento de Sistemas (ADS)](https://portal.uniasselvi.com.br/)<br/>
 - [[Bootcamp] Recode Pro 2023: Formação em Programador Full Stack (Recode)](https://recodepro.org.br/)<br/>
 - [[Studying] Java OO: entendendo a Orientação a Objetos (Alura)](https://cursos.alura.com.br/course/java-introducao-orientacao-objetos)<br/>
 - [[Coming Soon] Criando interfade do cartão RocketPay (Explorer Lab - Rocketseat)](https://lp.rocketseat.com.br/inscricao/explorer-lab?&)<br/>
 - [[Coming Soon] Criando interface do banco ByteBank]()
  
-<br />
-<br />
-<br />
-
-<div align="center">
-  <img height="16px" title= "Visitors to my room" alt = "Visitor counter" src="https://profile-counter.glitch.me/{fiigueiredo}/count.svg" />
-</div>
+<br>
+<br>
 
 <!-- IMAGE FOOTER -->
 <img width = 100% src = "https://capsule-render.vercel.app/api?type=waving&color=ed76b4&height=120&section=footer" />
-
-
+<div align="center">
+  <img height="12px" title= "Visitors to my room" alt = "Visitor counter" src="https://profile-counter.glitch.me/{fiigueiredo}/count.svg" />
+</div>
 
 <!--------------------------------------------------------------OTHERS -------------------------------------------------------------->
 
